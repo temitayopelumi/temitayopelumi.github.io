@@ -65,7 +65,7 @@ html {
   transition: all 0.4s ease;
 }
 a {
-  color: #fff;
+  color: rgb(43, 8, 243);
   text-decoration: none;
 }
 a:hover,
